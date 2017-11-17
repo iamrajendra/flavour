@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="blue">blue</string>
+    <string name="rasp">rasp</string>
+    <string name="choclate">choclate</string>
+</resources>
